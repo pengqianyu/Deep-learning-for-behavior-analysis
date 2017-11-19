@@ -6,6 +6,7 @@ Description of files
 2.voucher_strategy_result.csv: detailed discount scheme for each group of users;
 3.Report.pdf: description of steps, data and algorithms that were used;
 4.code: file folder of source codes.
+
 ----------------------------------------------------------------------------------
 Guidances/details of codes
 ----------------------------------------------------------------------------------
